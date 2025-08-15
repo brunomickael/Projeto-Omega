@@ -27,5 +27,57 @@ Projeto precisa ser compilado ou empacotado.
 3. Artefatos:
    
       Salvar ou fazer upload de artefatos gerados (ex: binários, relatórios de teste).
+   
+
+   Estrutura planejada para o sistema:
+   
+
+1. Tela Inicial / Painel
+
+- Breve apresentação do objetivo do sistema.
+
+- Menu rápido para acessar: plano de estudo, Bíblia cronológica, destaques e dúvidas.
+
+- Versículo do dia em destaque.
+
+2. Plano de Estudo Detalhado
+
+- Planos divididos por temas (ex: vida de Jesus, profecias, cartas paulinas) e por tempo (7 dias, 30 dias, 1 ano).
+
+- Progresso visual (barra ou checklist) para o usuário acompanhar o avanço.
+
+- Possibilidade de marcar leituras como concluídas.
+
+3. Bíblia em Ordem Cronológica
+
+- Livros e capítulos reorganizados conforme os acontecimentos históricos.
+
+- Recursos de comparação (cronológico vs. ordem tradicional).
+
+- Botão para “ir para o próximo evento” e manter continuidade.
+
+4. Destaques das Passagens Mais Importantes
+
+- Trechos sublinhados ou destacados.
+
+- Pequena explicação ou contexto histórico ao lado.
+
+- Opção de favoritar passagens.
+
+5. Área de Dúvidas e Discussões
+
+- Campo para enviar perguntas sobre um versículo específico.
+
+- Respostas de moderadores ou membros experientes.
+
+- Histórico de dúvidas respondidas para consulta geral.
+
+6. Funcionalidades Extras
+
+- Busca avançada por palavras-chave, temas ou personagens.
+
+- Notificações para lembrar de continuar o plano de estudo.
+
+- Integração com áudio Bíblia e vídeos explicativos.
 
       
