@@ -11,9 +11,8 @@ Tecnologias utilizadas:
 
 JavaScript;
 
-HTML5;
+Node.js;
 
-CSS3.
 
 O que aprendi:
 
