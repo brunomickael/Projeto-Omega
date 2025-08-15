@@ -28,8 +28,9 @@ Projeto precisa ser compilado ou empacotado.
    
       Salvar ou fazer upload de artefatos gerados (ex: binários, relatórios de teste).
    
+   
 
-   Estrutura planejada para o sistema:
+Estrutura planejada para o sistema:
    
 
 1. Tela Inicial / Painel
